@@ -1,4 +1,4 @@
-package test01;
+package test01.lesson_4;
 
 public class PrintViaCondions {
     public static void main(String[] args) {
